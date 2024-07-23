@@ -6,7 +6,7 @@ edition = "2021"
 description = "A degree of seperation search through astro-ph"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/jwpetley/arxiv_degree"
-readme = "REAMDE.md"
+readme = "README.md"
 
 [dependencies]
 reqwest = {version = "0.12.5", features = ["blocking"]}
